@@ -1,0 +1,1972 @@
+[
+    {
+        "id": "f95430282ed84b4d",
+        "type": "tab",
+        "label": "Serveur",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ea50a2fb8f22d0d8",
+        "type": "tab",
+        "label": "Distributeur",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "260f880a02f039f0",
+        "type": "tab",
+        "label": "Collier GPS",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "c7a1f59c16ba0817",
+        "type": "group",
+        "z": "f95430282ed84b4d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9ebe115936f420c8",
+            "977aa0302c12161a",
+            "e4c1feb0e56f5119",
+            "b5274895f2e756a1",
+            "5bebf8fbfd5bfda9",
+            "0a155e365ef2a208",
+            "eb2d67bfe05d976a",
+            "caa207893e76f965"
+        ],
+        "x": 854,
+        "y": 439,
+        "w": 732,
+        "h": 182
+    },
+    {
+        "id": "9c23b5ba778f4336",
+        "type": "group",
+        "z": "f95430282ed84b4d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "03b77faa0b9e0212",
+            "68b8d6fd15152182",
+            "3b16774736d072a7",
+            "0bba5471cb8dcf41",
+            "63bd4c2f325335d8",
+            "6ebceb5740ae0760",
+            "668e4e802821aec8",
+            "e5468e5bf9f4d6dc",
+            "10a4a0a28a66a733",
+            "81b8998987e55fea",
+            "5a91e677b85de98c"
+        ],
+        "x": 874,
+        "y": 659,
+        "w": 952,
+        "h": 202
+    },
+    {
+        "id": "769cbb8bf7b71c09",
+        "type": "group",
+        "z": "f95430282ed84b4d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "09bdaf591020ba0e",
+            "1473d8f2a82458c4",
+            "3d53fbf7e56181de",
+            "3fb402aa97fc4ec6",
+            "ce3512ad59e1e64c",
+            "e4f3b5ebdd1cf608",
+            "e696a72d3b995e64",
+            "5413e1180c0177da",
+            "be6c38756e640255",
+            "bf975fffc4069c75",
+            "52b7a378cc2f1cfa",
+            "ef2948e3c17d2785",
+            "9095bf5810efaa21",
+            "ec39ae40f980e96c",
+            "c2c7a6d7d7b5fdcd",
+            "5dab94ec5619f674"
+        ],
+        "x": 74,
+        "y": 459,
+        "w": 752,
+        "h": 362
+    },
+    {
+        "id": "043cabb59f369266",
+        "type": "group",
+        "z": "f95430282ed84b4d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "b1e539b669e59f7a",
+            "285515334597f26d",
+            "b47c0e919b9da510",
+            "68ea2b4f0bf15dfe",
+            "6ee18c3b12b33d90",
+            "a1c73aa17909a689",
+            "7b6086dee5d21843",
+            "9c820c5c4265b71b",
+            "80e5fec253078662",
+            "82bf67b43a8ac610",
+            "aff2ea3953e22bc2",
+            "2690f1c5ac1c7425",
+            "246b9501da3b295a",
+            "f3120101068ab975",
+            "68dc0f4bf3602d54",
+            "114701efdce5cb2f",
+            "49f9e603611833a6",
+            "26a5a0fafee9d8b8",
+            "101985cb3a6b211f",
+            "d89bf273e1774644",
+            "56d69fe81c6d8154",
+            "0c54a400fd8edc75",
+            "ea08897f30886386"
+        ],
+        "x": 134,
+        "y": 99,
+        "w": 1452,
+        "h": 302
+    },
+    {
+        "id": "0750d35cbb4c8d45",
+        "type": "group",
+        "z": "ea50a2fb8f22d0d8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "6dd0fa3bce4b35bc",
+            "20038b491131f82c",
+            "0b6f38bfb5c88213"
+        ],
+        "x": 174,
+        "y": 39
+    },
+    {
+        "id": "e199fabff7bffb04",
+        "type": "group",
+        "z": "ea50a2fb8f22d0d8",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "d0215035d5220073",
+            "e54dcf8f859b5813"
+        ],
+        "x": 674,
+        "y": 39
+    },
+    {
+        "id": "de184035955fb0f1",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "test.mosquitto.org",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "e41bec35548f57d4",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "461d56a3d375d81d",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "test.mosquitto.org",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "609768bd345c0385",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "a876cf7a35a0fd52",
+        "type": "ui_group",
+        "name": "Dispenser",
+        "tab": "609768bd345c0385",
+        "order": 1,
+        "disp": false,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "dba740fdbdf96f36",
+        "type": "ui_group",
+        "name": "Chat_1",
+        "tab": "609768bd345c0385",
+        "order": 3,
+        "disp": false,
+        "width": 11,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "944e363de2341f9e",
+        "type": "ui_group",
+        "name": "Chat_2",
+        "tab": "609768bd345c0385",
+        "order": 5,
+        "disp": false,
+        "width": 11,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "05b1380b35f7aa96",
+        "type": "ui_group",
+        "name": "Form_2",
+        "tab": "609768bd345c0385",
+        "order": 4,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c65d493873937ae1",
+        "type": "ui_group",
+        "name": "Form_1",
+        "tab": "609768bd345c0385",
+        "order": 2,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d3a3e14208d9f78e",
+        "type": "ui_group",
+        "name": "Tests",
+        "tab": "609768bd345c0385",
+        "order": 6,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a202f50d2ee5ba11",
+        "type": "websocket-listener",
+        "path": "/ws/miaou",
+        "wholemsg": "false"
+    },
+    {
+        "id": "7c5f8416fc841d42",
+        "type": "ui_spacer",
+        "z": "f95430282ed84b4d",
+        "name": "spacer",
+        "group": "dba740fdbdf96f36",
+        "order": 5,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "5038bea789054461",
+        "type": "ui_spacer",
+        "z": "f95430282ed84b4d",
+        "name": "spacer",
+        "group": "944e363de2341f9e",
+        "order": 5,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "cb70497da1cedac1",
+        "type": "ui_spacer",
+        "z": "f95430282ed84b4d",
+        "name": "spacer",
+        "group": "944e363de2341f9e",
+        "order": 6,
+        "width": 7,
+        "height": 1
+    },
+    {
+        "id": "9095bf5810efaa21",
+        "type": "inject",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "init",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 170,
+        "y": 600,
+        "wires": [
+            [
+                "1473d8f2a82458c4",
+                "ec39ae40f980e96c"
+            ]
+        ]
+    },
+    {
+        "id": "09bdaf591020ba0e",
+        "type": "ui_gauge",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "",
+        "group": "a876cf7a35a0fd52",
+        "order": 1,
+        "width": 6,
+        "height": 6,
+        "gtype": "gage",
+        "title": "Croquette restante (g)",
+        "label": "g",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1000",
+        "colors": [
+            "#b30024",
+            "#e6e600",
+            "#1ae000"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "Dispenser",
+        "x": 700,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "1473d8f2a82458c4",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "Initialise le compteur",
+        "func": "global.set(\"JaugeNourriture\", 1000);\nmsg.payload = 1000;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 540,
+        "wires": [
+            [
+                "09bdaf591020ba0e"
+            ]
+        ]
+    },
+    {
+        "id": "3d53fbf7e56181de",
+        "type": "ui_button",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "",
+        "group": "a876cf7a35a0fd52",
+        "order": 2,
+        "width": 6,
+        "height": 1,
+        "passthru": false,
+        "label": "Remplir",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "1000",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 180,
+        "y": 540,
+        "wires": [
+            [
+                "1473d8f2a82458c4"
+            ]
+        ]
+    },
+    {
+        "id": "b1e539b669e59f7a",
+        "type": "ui_form",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Formul_chat_1",
+        "label": "",
+        "group": "c65d493873937ae1",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "options": [
+            {
+                "label": "Nom",
+                "value": "nom",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Poids",
+                "value": "poids",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Race",
+                "value": "race",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Age",
+                "value": "age",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Stérilisé",
+                "value": "sterilisation",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sédentaire",
+                "value": "sedentaire",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "nom": "",
+            "poids": "",
+            "race": "",
+            "age": "",
+            "sterilisation": false,
+            "sedentaire": false
+        },
+        "payload": "",
+        "submit": "Ajouter chat",
+        "cancel": "Annuler",
+        "topic": "ajoutChat",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "FormulaireAjoutChat",
+        "x": 240,
+        "y": 220,
+        "wires": [
+            [
+                "114701efdce5cb2f"
+            ]
+        ]
+    },
+    {
+        "id": "101985cb3a6b211f",
+        "type": "comment",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Ajout/suppression de chat",
+        "info": "",
+        "x": 270,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "285515334597f26d",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Ajout_Chat",
+        "func": "\n\n//les infos des chats\nif (!global.get(\"LesChats\")) {\n    global.set(\"LesChats\", []);\n}\n\nvar LesChats = global.get(\"LesChats\");\n\n// Extraire les attributs de l'objet chat\nconst poidsChat = msg.payload.poids;\nconst sedentaire = !msg.payload.sedentaire; //  Actif si non sédentaire\nconst sterilisation = msg.payload.sterilisation;\n\n// Utiliser la fonction de calcul\n\nlet croquetteQuotidienne = calculerQuantiteCroquettes(poidsChat, sedentaire, sterilisation);\nlet croquetteParRepas = Math.trunc(croquetteQuotidienne/5); // 5 journalier pour éviter le goinffrage \nmsg.payload.croqMax = croquetteQuotidienne;\nmsg.payload.croq = croquetteParRepas\n\n// Créer un objet JSON avec les valeurs\nconst nouveauChat = {\n    qtt: msg.payload.croq,\n    compteur_repas : 5,\n    heure_repas : [],\n    positions : [\n        [43.317113,-0.353986]\n        ],\n};\n\n\n\n// Ajouter le nouvel objet au tableau global des chats\nLesChats[msg.payload.num - 1] = nouveauChat;\n\n// Mettre à jour le tableau global dans le contexte global\nglobal.set(\"LesChats\", LesChats);\n\n\n\nreturn msg;\n\n\n//fonction calcule croquette quotidienne\nfunction calculerQuantiteCroquettes(poids, actif, sterilise) {\n   var quantite; \n    if (poids >= 1 && poids <= 9) {\n        if (actif && !sterilise) {\n            // Chat actif, non stérilisé\n            switch (poids) {\n                case 2:\n                    quantite = 45;\n                    break;\n                case 3:\n                    quantite = 55;\n                    break;\n                case 4:\n                    quantite = 75;\n                    break;\n                case 5:\n                    quantite = 90;\n                    break;\n                case 6:\n                    quantite = 110;\n                    break;\n                default : \n                    quantite = 40;\n            }\n        }  else if (actif && sterilise) {\n            // Chat actif, stérilisé\n            switch (poids) {\n                case 2:\n                    quantite = 30;\n                    break;\n                case 3:\n                    quantite = 40;\n                    break;\n                case 4:\n                    quantite = 50;\n                    break;\n                case 5:\n                    quantite = 65;\n                    break;\n                case 6:\n                    quantite = 75;\n                    break;\n                default:\n                    quantite = 25;\n            }\n        } else if (!actif && !sterilise) {\n            // Chat sédentaire, non stérilisé\n            switch (poids) {\n                case 2:\n                    quantite = 40;\n                    break;\n                case 3:\n                    quantite = 45;\n                    break;\n                case 4:\n                    quantite = 65;\n                    break;\n                case 5:\n                    quantite = 80;\n                    break;\n                case 6:\n                    quantite = 95;\n                    break;\n                default:\n                    quantite = 35;\n            }\n        }\n        else{\n            quantite = 50;\n        }\n    }\n    node.warn(\"my warning\" + quantite);\n    return quantite;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 730,
+        "y": 220,
+        "wires": [
+            [
+                "7b6086dee5d21843",
+                "56d69fe81c6d8154"
+            ]
+        ]
+    },
+    {
+        "id": "b47c0e919b9da510",
+        "type": "ui_template",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "group": "dba740fdbdf96f36",
+        "name": "pfp chat 1",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "format": "<img\n  class=\"profil-picture\"\n  src=\"https://upload.wikimedia.org/wikipedia/commons/c/c2/Ragdoll%2C_seal_mitted.JPG\"\n  alt=\"RagdollAssis\" \n/>\n\n<style>\n  .profil-picture {\n    width: 100%;\n    height : 100%;\n  }\n\n  li {\n    font-size: 30px;\n  }\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1180,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "68ea2b4f0bf15dfe",
+        "type": "ui_template",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "group": "944e363de2341f9e",
+        "name": "Info chat 2",
+        "order": 2,
+        "width": 6,
+        "height": 4,
+        "format": "<p><b>Nom</b> : {{msg.payload.nom}}</p>\n<p><b>Age</b> : {{msg.payload.age}}</p>\n<p><b>Race</b> : {{msg.payload.race}}</p>\n<p><b>Poids</b> : {{msg.payload.poids}} </p>\n<p><b>Stérilisation</b> : {{msg.payload.sterilisation ? 'Oui' : 'Non'}}</p>\n<p><b>Sédentaire</b> : {{msg.payload.sedentaire ? 'Oui' : 'Non'}}</p>\n<p><b>Croquettes journalière</b> : {{msg.payload.croqMax}}g</p>\n<p><b>Croquettes distribué par repas</b> : {{msg.payload.croq}}g</p>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1190,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6ee18c3b12b33d90",
+        "type": "ui_template",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "group": "dba740fdbdf96f36",
+        "name": "Info chat 1",
+        "order": 2,
+        "width": 6,
+        "height": 4,
+        "format": "<p><b>Nom</b>  : {{msg.payload.nom}}</p>\n<p><b>Age</b> : {{msg.payload.age}}</p>\n<p><b>Race</b> : {{msg.payload.race}}</p>\n<p><b>Poids</b> : {{msg.payload.poids}} </p>\n<p><b>Stérilisation</b> : {{msg.payload.sterilisation ? 'Oui' : 'Non'}}</p>\n<p><b>Sédentaire</b> : {{msg.payload.sedentaire ? 'Oui' : 'Non'}}</p>\n<p><b>Croquettes journalière</b> : {{msg.payload.croqMax}}g</p>\n<p><b>Croquettes distribué par repas</b> : {{msg.payload.croq}}g</p>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1190,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a1c73aa17909a689",
+        "type": "ui_template",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "group": "944e363de2341f9e",
+        "name": "pfp chat 2",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "format": "<img\n  class=\"profil-picture\"\n  src=\"https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=675,fit=cover/animal/breed/cat/adult/5cd047a1a4a90229922507.jpg\"\n  alt=\"RagdollAssis\"\n/>\n\n<style>\n\n  .profil-picture {\n    width: 100%;\n    height : 100%;\n  }\n  .profil-picturesss {\n    width: 230px;\n  }\n\n  li {\n    font-size: 30px;\n  }\n</style>\n",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1180,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7b6086dee5d21843",
+        "type": "switch",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "",
+        "property": "payload.num",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 900,
+        "y": 220,
+        "wires": [
+            [
+                "6ee18c3b12b33d90"
+            ],
+            [
+                "68ea2b4f0bf15dfe"
+            ]
+        ]
+    },
+    {
+        "id": "3fb402aa97fc4ec6",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "Décrémenter de X Jauge nouriture",
+        "func": "\n    // Décrémenter de X\n    var decrementAmount =  msg.payload;\n\n    msg.payload = global.get(\"JaugeNourriture\") - decrementAmount;\n\n    global.set(\"JaugeNourriture\", msg.payload);\n\n    return msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 460,
+        "y": 600,
+        "wires": [
+            [
+                "09bdaf591020ba0e"
+            ]
+        ]
+    },
+    {
+        "id": "9ebe115936f420c8",
+        "type": "mqtt in",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "",
+        "topic": "manger",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "de184035955fb0f1",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 930,
+        "y": 580,
+        "wires": [
+            [
+                "977aa0302c12161a"
+            ]
+        ]
+    },
+    {
+        "id": "977aa0302c12161a",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "verif",
+        "func": "var LesChats = global.get(\"LesChats\");\n\nif(LesChats[msg.payload-1].compteur_repas != 0){\n   return msg;\n}\nelse{\n    return 0;\n}\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1090,
+        "y": 580,
+        "wires": [
+            [
+                "eb2d67bfe05d976a"
+            ]
+        ]
+    },
+    {
+        "id": "e4c1feb0e56f5119",
+        "type": "mqtt out",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "",
+        "topic": "peut_manger",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "de184035955fb0f1",
+        "x": 1490,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "b5274895f2e756a1",
+        "type": "link out",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "mange quantitée out ",
+        "mode": "link",
+        "links": [
+            "ce3512ad59e1e64c"
+        ],
+        "x": 1425,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "9c820c5c4265b71b",
+        "type": "ui_ui_control",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "",
+        "events": "all",
+        "x": 1000,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "80e5fec253078662",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Controle formulaire",
+        "func": "\n\nswitch(msg.payload.num){\n    case 0 : msg.payload = { \"group\": { \"hide\": [\"Home_Chat_1\", \"Home_Chat_2\"], \"show\": [\"Home_Form_1\",\"Home_Form_2\"] } };\n    return msg;\n    case 1 : msg.payload = { \"group\": { \"hide\": [\"Home_Form_1\"], \"show\" : [\"Home_Chat_1\"]} };\n    return msg;\n    case 2 : msg.payload = { \"group\": { \"hide\": [\"Home_Form_2\"], \"show\" : [\"Home_Chat_2\"]} };\n    return msg;\n\n    default : return null;\n}\n\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 300,
+        "wires": [
+            [
+                "68dc0f4bf3602d54"
+            ]
+        ]
+    },
+    {
+        "id": "82bf67b43a8ac610",
+        "type": "ui_button",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Supprime_chat_1",
+        "group": "dba740fdbdf96f36",
+        "order": 6,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Supprimer le chat",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "1",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1210,
+        "y": 240,
+        "wires": [
+            [
+                "2690f1c5ac1c7425",
+                "0c54a400fd8edc75"
+            ]
+        ]
+    },
+    {
+        "id": "aff2ea3953e22bc2",
+        "type": "ui_button",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Supprime_chat_2",
+        "group": "944e363de2341f9e",
+        "order": 7,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "Supprimer le chat",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "2",
+        "payloadType": "num",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1210,
+        "y": 360,
+        "wires": [
+            [
+                "2690f1c5ac1c7425",
+                "ea08897f30886386"
+            ]
+        ]
+    },
+    {
+        "id": "2690f1c5ac1c7425",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "suppression",
+        "func": "\n\n\n\nswitch(msg.payload){\n    case 1 : msg.payload = { \"group\": { \"hide\": [\"Home_Chat_1\"], \"show\" : [\"Home_Form_1\"]} };\n    return msg;\n    case 2 : msg.payload = { \"group\": { \"hide\": [\"Home_Chat_2\"], \"show\" : [\"Home_Form_2\"]} };\n    return msg;\n\n    default : return null;\n}\n\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1430,
+        "y": 300,
+        "wires": [
+            [
+                "f3120101068ab975"
+            ]
+        ]
+    },
+    {
+        "id": "246b9501da3b295a",
+        "type": "link in",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "ui control",
+        "links": [
+            "68dc0f4bf3602d54",
+            "f3120101068ab975"
+        ],
+        "x": 845,
+        "y": 360,
+        "wires": [
+            [
+                "9c820c5c4265b71b"
+            ]
+        ]
+    },
+    {
+        "id": "f3120101068ab975",
+        "type": "link out",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "ui suppresion out",
+        "mode": "link",
+        "links": [
+            "246b9501da3b295a"
+        ],
+        "x": 1545,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "68dc0f4bf3602d54",
+        "type": "link out",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "ui control création out",
+        "mode": "link",
+        "links": [
+            "246b9501da3b295a"
+        ],
+        "x": 925,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "114701efdce5cb2f",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "envoie_chat_id_1",
+        "func": "msg.payload.num = 1;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 220,
+        "wires": [
+            [
+                "285515334597f26d",
+                "80e5fec253078662"
+            ]
+        ]
+    },
+    {
+        "id": "49f9e603611833a6",
+        "type": "ui_form",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Formul_chat_2",
+        "label": "",
+        "group": "05b1380b35f7aa96",
+        "order": 1,
+        "width": 6,
+        "height": 1,
+        "options": [
+            {
+                "label": "Nom",
+                "value": "nom",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Poids",
+                "value": "poids",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Race",
+                "value": "race",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Age",
+                "value": "age",
+                "type": "number",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Stérilisé",
+                "value": "sterilisation",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Sédentaire",
+                "value": "sedentaire",
+                "type": "checkbox",
+                "required": true,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "nom": "",
+            "poids": "",
+            "race": "",
+            "age": "",
+            "sterilisation": false,
+            "sedentaire": false
+        },
+        "payload": "",
+        "submit": "Ajouter Chat",
+        "cancel": "Annuler",
+        "topic": "ajoutChat",
+        "topicType": "msg",
+        "splitLayout": "",
+        "className": "FormulaireAjoutChat",
+        "x": 240,
+        "y": 300,
+        "wires": [
+            [
+                "26a5a0fafee9d8b8"
+            ]
+        ]
+    },
+    {
+        "id": "26a5a0fafee9d8b8",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "envoie_chat_id_2",
+        "func": "msg.payload.num = 2;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 450,
+        "y": 300,
+        "wires": [
+            [
+                "285515334597f26d",
+                "80e5fec253078662"
+            ]
+        ]
+    },
+    {
+        "id": "ce3512ad59e1e64c",
+        "type": "link in",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "mange quantitée in",
+        "links": [
+            "b5274895f2e756a1"
+        ],
+        "x": 285,
+        "y": 600,
+        "wires": [
+            [
+                "3fb402aa97fc4ec6"
+            ]
+        ]
+    },
+    {
+        "id": "e4f3b5ebdd1cf608",
+        "type": "comment",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "Gestion Repas",
+        "info": "",
+        "x": 620,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "03b77faa0b9e0212",
+        "type": "comment",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "Gestion GPS",
+        "info": "",
+        "x": 970,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "5bebf8fbfd5bfda9",
+        "type": "comment",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "Reception Distributeur",
+        "info": "",
+        "x": 980,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "0a155e365ef2a208",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "assigne_repas",
+        "func": "var LesChats = global.get(\"LesChats\");\n\nLesChats[msg.payload-1].compteur_repas--;\nmsg.payload = LesChats[msg.payload-1].qtt;\nglobal.set(\"LesChats\",LesChats);\n\n\nreturn msg;\n\n/*\nrecupere la var global de chat, \n    soustrait un repas dispo\n    recupère la quatitée de croquette par repas attribué au chat et l'envoie\n*/",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1280,
+        "y": 580,
+        "wires": [
+            [
+                "e4c1feb0e56f5119",
+                "b5274895f2e756a1"
+            ]
+        ]
+    },
+    {
+        "id": "eb2d67bfe05d976a",
+        "type": "switch",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "str"
+            },
+            {
+                "t": "neq",
+                "v": "0",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1200,
+        "y": 500,
+        "wires": [
+            [],
+            [
+                "0a155e365ef2a208",
+                "caa207893e76f965"
+            ]
+        ]
+    },
+    {
+        "id": "5413e1180c0177da",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "update heure repas",
+        "func": "var LesChats = global.get(\"LesChats\");\n\n// Ajouter l'heure actuelle à la liste\nvar currentTime = new Date();\nLesChats[msg.payload-1].heure_repas.push({\n    timestamp: currentTime.getTime(),  // Timestamp en millisecondes\n    date: currentTime.toLocaleDateString(),  // Date formatée\n    time: currentTime.toLocaleTimeString(),  // Heure formatée\n});\nglobal.set(\"LesChats\",LesChats);\n\nmsg.payload = LesChats[msg.payload-1].heure_repas.filter(item => typeof item === 'object');\n    //permet de recuperer que la liste d'heure des repas\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 720,
+        "wires": [
+            [
+                "be6c38756e640255"
+            ]
+        ]
+    },
+    {
+        "id": "be6c38756e640255",
+        "type": "ui_template",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "group": "dba740fdbdf96f36",
+        "name": "heure de repas chat 1",
+        "order": 3,
+        "width": 4,
+        "height": 6,
+        "format": "<div>\n    <h1>Heures des repas </h1>\n    <li ng-repeat=\"item in msg.payload\">\n        {{ item.time }}\n    </li>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 700,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bf975fffc4069c75",
+        "type": "link in",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "heure de repas in",
+        "links": [
+            "caa207893e76f965"
+        ],
+        "x": 125,
+        "y": 740,
+        "wires": [
+            [
+                "e696a72d3b995e64"
+            ]
+        ]
+    },
+    {
+        "id": "caa207893e76f965",
+        "type": "link out",
+        "z": "f95430282ed84b4d",
+        "g": "c7a1f59c16ba0817",
+        "name": "heure de repas out ",
+        "mode": "link",
+        "links": [
+            "bf975fffc4069c75"
+        ],
+        "x": 1325,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "68b8d6fd15152182",
+        "type": "ui_worldmap",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "group": "dba740fdbdf96f36",
+        "order": 4,
+        "width": 7,
+        "height": 6,
+        "name": "worldmap chat 1",
+        "lat": "43.317113",
+        "lon": " -0.353986",
+        "zoom": "16",
+        "layer": "OSMC",
+        "cluster": "",
+        "maxage": "6000",
+        "usermenu": "show",
+        "layers": "hide",
+        "panit": "false",
+        "panlock": "false",
+        "zoomlock": "false",
+        "hiderightclick": "false",
+        "coords": "none",
+        "showgrid": "true",
+        "showruler": "false",
+        "allowFileDrop": "false",
+        "path": "/worldmap",
+        "overlist": "DR",
+        "maplist": "OSMG,OSMC,EsriC,EsriS,EsriT,EsriDG,UKOS",
+        "mapname": "",
+        "mapurl": "",
+        "mapopt": "",
+        "mapwms": false,
+        "x": 1720,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "3b16774736d072a7",
+        "type": "ui_worldmap",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "group": "944e363de2341f9e",
+        "order": 4,
+        "width": 7,
+        "height": 6,
+        "name": "worldmap chat 2",
+        "lat": "43.317113",
+        "lon": " -0.353986",
+        "zoom": "16",
+        "layer": "OSMC",
+        "cluster": "",
+        "maxage": "6000",
+        "usermenu": "show",
+        "layers": "hide",
+        "panit": "false",
+        "panlock": "false",
+        "zoomlock": "false",
+        "hiderightclick": "false",
+        "coords": "none",
+        "showgrid": "true",
+        "showruler": "false",
+        "allowFileDrop": "false",
+        "path": "/worldmap_2",
+        "overlist": "DR",
+        "maplist": "OSMG,OSMC,EsriC,EsriS,EsriT,EsriDG,UKOS",
+        "mapname": "",
+        "mapurl": "",
+        "mapopt": "",
+        "mapwms": false,
+        "x": 1660,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "d89bf273e1774644",
+        "type": "link out",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "init gps out ",
+        "mode": "link",
+        "links": [
+            "668e4e802821aec8"
+        ],
+        "x": 1045,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "0bba5471cb8dcf41",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "Update gps",
+        "func": "var LesChats = global.get(\"LesChats\");\n\nLesChats[msg.payload.id-1].positions.push([msg.payload.latitude,msg.payload.longitude]);\n\nvar id = msg.payload.id;\nvar longitude = msg.payload.longitude;\nvar latitude = msg.payload.latitude;\n\n     msg.payload = {\n            \"name\": msg.payload.id,\n            \"line\": LesChats[msg.payload.id-1].positions,\n            \"layer\": \"chat\",\n            \"fly\": true // Zoom pour adapter la ligne sur la carte\n        };\n\n   if(latitude == 43.317113 && longitude == -0.353986){\n    LesChats[id-1].positions = [[43.317113,-0.353986]];\n   } \n    \n\n   \nglobal.set(\"LesChats\", LesChats);\nreturn msg;\n\n/**\n récupère la var global chat associé au l'id du payload, ajoute dans ses données ses nouvelles possitions gps en longitude latitude,  \n */\n\n\n\n\n\n\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1290,
+        "y": 780,
+        "wires": [
+            [
+                "6ebceb5740ae0760"
+            ]
+        ]
+    },
+    {
+        "id": "63bd4c2f325335d8",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "filtre coordonnées",
+        "func": "\nvar str = msg.payload;\n\n\nmsg.payload = {\n    latitude : str.slice(1, str.lastIndexOf(',')),\n    longitude : str.slice(str.lastIndexOf(',')+1, str.length - 2),\n    id : str.slice(str.length-1)\n}\n\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1110,
+        "y": 780,
+        "wires": [
+            [
+                "0bba5471cb8dcf41",
+                "5a91e677b85de98c"
+            ]
+        ]
+    },
+    {
+        "id": "52b7a378cc2f1cfa",
+        "type": "ui_template",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "group": "944e363de2341f9e",
+        "name": "heure de repas chat 2",
+        "order": 3,
+        "width": 4,
+        "height": 5,
+        "format": "<div>\n    <h1>Heures des repas </h1>\n    <li ng-repeat=\"item in msg.payload\">\n        {{ item.time }}\n    </li>\n</div>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 700,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e696a72d3b995e64",
+        "type": "switch",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 220,
+        "y": 740,
+        "wires": [
+            [
+                "5413e1180c0177da"
+            ],
+            [
+                "ef2948e3c17d2785"
+            ]
+        ]
+    },
+    {
+        "id": "ef2948e3c17d2785",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "update heure repas",
+        "func": "var LesChats = global.get(\"LesChats\");\n\n// Ajouter l'heure actuelle à la liste\nvar currentTime = new Date();\nLesChats[msg.payload-1].heure_repas.push({\n    timestamp: currentTime.getTime(),  // Timestamp en millisecondes\n    date: currentTime.toLocaleDateString(),  // Date formatée\n    time: currentTime.toLocaleTimeString(),  // Heure formatée\n});\nglobal.set(\"LesChats\",LesChats);\n\nmsg.payload = LesChats[msg.payload-1].heure_repas.filter(item => typeof item === 'object');\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 760,
+        "wires": [
+            [
+                "52b7a378cc2f1cfa"
+            ]
+        ]
+    },
+    {
+        "id": "56d69fe81c6d8154",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "transit_pour_gps_init",
+        "func": "\nvar LesChats = global.get(\"LesChats\");\n\nmsg.payload = {\n    name: msg.payload.num+\"1\",\n    latitude: LesChats[msg.payload.num-1].positions[0][0],\n    longitude: LesChats[msg.payload.num-1].positions[0][1],\n    icon:\"home\",\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 140,
+        "wires": [
+            [
+                "d89bf273e1774644"
+            ]
+        ]
+    },
+    {
+        "id": "6ebceb5740ae0760",
+        "type": "switch",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "",
+        "property": "payload.name",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "11",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "110",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "2",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "21",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "210",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 6,
+        "x": 1480,
+        "y": 780,
+        "wires": [
+            [
+                "68b8d6fd15152182"
+            ],
+            [
+                "68b8d6fd15152182"
+            ],
+            [
+                "68b8d6fd15152182"
+            ],
+            [
+                "3b16774736d072a7"
+            ],
+            [
+                "3b16774736d072a7"
+            ],
+            [
+                "3b16774736d072a7"
+            ]
+        ]
+    },
+    {
+        "id": "668e4e802821aec8",
+        "type": "link in",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "init gps in ",
+        "links": [
+            "d89bf273e1774644"
+        ],
+        "x": 1335,
+        "y": 740,
+        "wires": [
+            [
+                "6ebceb5740ae0760"
+            ]
+        ]
+    },
+    {
+        "id": "ec39ae40f980e96c",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "init heure_repas",
+        "func": "msg.payload = null;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 660,
+        "wires": [
+            [
+                "be6c38756e640255",
+                "52b7a378cc2f1cfa"
+            ]
+        ]
+    },
+    {
+        "id": "c2c7a6d7d7b5fdcd",
+        "type": "link in",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "Supprime heure chat1",
+        "links": [
+            "0c54a400fd8edc75"
+        ],
+        "x": 545,
+        "y": 660,
+        "wires": [
+            [
+                "be6c38756e640255"
+            ]
+        ]
+    },
+    {
+        "id": "5dab94ec5619f674",
+        "type": "link in",
+        "z": "f95430282ed84b4d",
+        "g": "769cbb8bf7b71c09",
+        "name": "Supprime chat2 in",
+        "links": [
+            "ea08897f30886386"
+        ],
+        "x": 545,
+        "y": 780,
+        "wires": [
+            [
+                "52b7a378cc2f1cfa"
+            ]
+        ]
+    },
+    {
+        "id": "0c54a400fd8edc75",
+        "type": "link out",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Supprime chat1 out",
+        "mode": "link",
+        "links": [
+            "c2c7a6d7d7b5fdcd",
+            "10a4a0a28a66a733"
+        ],
+        "x": 1385,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "ea08897f30886386",
+        "type": "link out",
+        "z": "f95430282ed84b4d",
+        "g": "043cabb59f369266",
+        "name": "Supprime chat2 out",
+        "mode": "link",
+        "links": [
+            "5dab94ec5619f674",
+            "10a4a0a28a66a733"
+        ],
+        "x": 1395,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "e5468e5bf9f4d6dc",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "efface la carte",
+        "func": "msg.payload = {\n            \"name\": msg.payload,\n            \"line\": null,\n            \"layer\": \"chat\",\n            \"fly\": true // Zoom pour adapter la ligne sur la carte\n        };\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1280,
+        "y": 820,
+        "wires": [
+            [
+                "6ebceb5740ae0760"
+            ]
+        ]
+    },
+    {
+        "id": "10a4a0a28a66a733",
+        "type": "link in",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "Supprime carte in",
+        "links": [
+            "0c54a400fd8edc75",
+            "ea08897f30886386"
+        ],
+        "x": 1155,
+        "y": 820,
+        "wires": [
+            [
+                "e5468e5bf9f4d6dc"
+            ]
+        ]
+    },
+    {
+        "id": "81b8998987e55fea",
+        "type": "mqtt in",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "",
+        "topic": "GPS",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "de184035955fb0f1",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 950,
+        "y": 780,
+        "wires": [
+            [
+                "63bd4c2f325335d8"
+            ]
+        ]
+    },
+    {
+        "id": "5a91e677b85de98c",
+        "type": "function",
+        "z": "f95430282ed84b4d",
+        "g": "9c23b5ba778f4336",
+        "name": "deplacement_point_chat",
+        "func": "\nvar id = msg.payload.id;\nvar longitude = msg.payload.longitude;\nvar latitude = msg.payload.latitude;\n\n\nif(longitude != 43.317113 || latitude != -0.353986){\n  msg.payload = {\n    name: id+\"10\",\n    latitude: latitude,\n    longitude: longitude,\n    icon : \"microchip\",\n};\nnode.warn(msg.payload);\n   } \nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1330,
+        "y": 700,
+        "wires": [
+            [
+                "6ebceb5740ae0760"
+            ]
+        ]
+    },
+    {
+        "id": "6dd0fa3bce4b35bc",
+        "type": "mqtt out",
+        "z": "ea50a2fb8f22d0d8",
+        "g": "0750d35cbb4c8d45",
+        "name": "",
+        "topic": "manger",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "de184035955fb0f1",
+        "x": 480,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "d0215035d5220073",
+        "type": "mqtt in",
+        "z": "ea50a2fb8f22d0d8",
+        "g": "e199fabff7bffb04",
+        "name": "",
+        "topic": "peut_manger",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "de184035955fb0f1",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 810,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "20038b491131f82c",
+        "type": "comment",
+        "z": "ea50a2fb8f22d0d8",
+        "g": "0750d35cbb4c8d45",
+        "name": "Demande verif distributeur",
+        "info": "",
+        "x": 350,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "e54dcf8f859b5813",
+        "type": "comment",
+        "z": "ea50a2fb8f22d0d8",
+        "g": "e199fabff7bffb04",
+        "name": "Reception demande verif",
+        "info": "",
+        "x": 810,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "0b6f38bfb5c88213",
+        "type": "tail",
+        "z": "ea50a2fb8f22d0d8",
+        "g": "0750d35cbb4c8d45",
+        "name": "",
+        "filetype": "text",
+        "split": "[\\r]{0,1}\\n",
+        "filename": "Miam.txt",
+        "inputs": 0,
+        "x": 260,
+        "y": 140,
+        "wires": [
+            [
+                "6dd0fa3bce4b35bc"
+            ]
+        ]
+    },
+    {
+        "id": "a173b25a56cce9c9",
+        "type": "mqtt out",
+        "z": "260f880a02f039f0",
+        "name": "",
+        "topic": "GPS",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "de184035955fb0f1",
+        "x": 410,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "9566551e60a56659",
+        "type": "tail",
+        "z": "260f880a02f039f0",
+        "name": "",
+        "filetype": "text",
+        "split": "[\\r]{0,1}\\n",
+        "filename": "GPS.txt",
+        "inputs": 0,
+        "x": 210,
+        "y": 80,
+        "wires": [
+            [
+                "a173b25a56cce9c9"
+            ]
+        ]
+    }
+]
